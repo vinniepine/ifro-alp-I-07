@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dRD8biRqMbTw9BDg60zVp1eabk2j9e+FY9DX+PxfwqlNkS3ePMt1fSJzsoOzPsBc5DoNfMxrK2QR5iQ9fFWOpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Algoritmos feitos em sala\\ALP I\\ALP I - 7. Aula do dia 19.04.2023\\07 - Aula do dia 19.04.2023.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

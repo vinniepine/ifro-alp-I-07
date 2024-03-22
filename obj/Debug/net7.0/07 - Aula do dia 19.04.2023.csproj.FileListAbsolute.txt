@@ -1,0 +1,15 @@
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\bin\Debug\net7.0\07 - Aula do dia 19.04.2023.exe
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\bin\Debug\net7.0\07 - Aula do dia 19.04.2023.deps.json
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\bin\Debug\net7.0\07 - Aula do dia 19.04.2023.runtimeconfig.json
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\bin\Debug\net7.0\07 - Aula do dia 19.04.2023.dll
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\bin\Debug\net7.0\07 - Aula do dia 19.04.2023.pdb
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\obj\Debug\net7.0\07 - Aula do dia 19.04.2023.csproj.AssemblyReference.cache
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\obj\Debug\net7.0\07 - Aula do dia 19.04.2023.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\obj\Debug\net7.0\07 - Aula do dia 19.04.2023.AssemblyInfoInputs.cache
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\obj\Debug\net7.0\07 - Aula do dia 19.04.2023.AssemblyInfo.cs
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\obj\Debug\net7.0\07 - Aula do dia 19.04.2023.csproj.CoreCompileInputs.cache
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\obj\Debug\net7.0\07 - Aula do dia 19.04.2023.dll
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\obj\Debug\net7.0\refint\07 - Aula do dia 19.04.2023.dll
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\obj\Debug\net7.0\07 - Aula do dia 19.04.2023.pdb
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\obj\Debug\net7.0\07 - Aula do dia 19.04.2023.genruntimeconfig.cache
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\obj\Debug\net7.0\ref\07 - Aula do dia 19.04.2023.dll

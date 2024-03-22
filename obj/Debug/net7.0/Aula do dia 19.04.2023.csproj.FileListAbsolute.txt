@@ -1,0 +1,45 @@
+C:\Users\2023102060043\Documents\ADS - 1º período (Vinicius Pinheiro)\Aula do dia 19.04.2023\bin\Debug\net7.0\Aula do dia 19.04.2023.exe
+C:\Users\2023102060043\Documents\ADS - 1º período (Vinicius Pinheiro)\Aula do dia 19.04.2023\bin\Debug\net7.0\Aula do dia 19.04.2023.deps.json
+C:\Users\2023102060043\Documents\ADS - 1º período (Vinicius Pinheiro)\Aula do dia 19.04.2023\bin\Debug\net7.0\Aula do dia 19.04.2023.runtimeconfig.json
+C:\Users\2023102060043\Documents\ADS - 1º período (Vinicius Pinheiro)\Aula do dia 19.04.2023\bin\Debug\net7.0\Aula do dia 19.04.2023.dll
+C:\Users\2023102060043\Documents\ADS - 1º período (Vinicius Pinheiro)\Aula do dia 19.04.2023\bin\Debug\net7.0\Aula do dia 19.04.2023.pdb
+C:\Users\2023102060043\Documents\ADS - 1º período (Vinicius Pinheiro)\Aula do dia 19.04.2023\obj\Debug\net7.0\Aula do dia 19.04.2023.csproj.AssemblyReference.cache
+C:\Users\2023102060043\Documents\ADS - 1º período (Vinicius Pinheiro)\Aula do dia 19.04.2023\obj\Debug\net7.0\Aula do dia 19.04.2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102060043\Documents\ADS - 1º período (Vinicius Pinheiro)\Aula do dia 19.04.2023\obj\Debug\net7.0\Aula do dia 19.04.2023.AssemblyInfoInputs.cache
+C:\Users\2023102060043\Documents\ADS - 1º período (Vinicius Pinheiro)\Aula do dia 19.04.2023\obj\Debug\net7.0\Aula do dia 19.04.2023.AssemblyInfo.cs
+C:\Users\2023102060043\Documents\ADS - 1º período (Vinicius Pinheiro)\Aula do dia 19.04.2023\obj\Debug\net7.0\Aula do dia 19.04.2023.csproj.CoreCompileInputs.cache
+C:\Users\2023102060043\Documents\ADS - 1º período (Vinicius Pinheiro)\Aula do dia 19.04.2023\obj\Debug\net7.0\Aula do dia 19.04.2023.dll
+C:\Users\2023102060043\Documents\ADS - 1º período (Vinicius Pinheiro)\Aula do dia 19.04.2023\obj\Debug\net7.0\refint\Aula do dia 19.04.2023.dll
+C:\Users\2023102060043\Documents\ADS - 1º período (Vinicius Pinheiro)\Aula do dia 19.04.2023\obj\Debug\net7.0\Aula do dia 19.04.2023.pdb
+C:\Users\2023102060043\Documents\ADS - 1º período (Vinicius Pinheiro)\Aula do dia 19.04.2023\obj\Debug\net7.0\Aula do dia 19.04.2023.genruntimeconfig.cache
+C:\Users\2023102060043\Documents\ADS - 1º período (Vinicius Pinheiro)\Aula do dia 19.04.2023\obj\Debug\net7.0\ref\Aula do dia 19.04.2023.dll
+C:\Users\vinni\Downloads\Atividade de sala\7 - Aula do dia 19.04.2023\bin\Debug\net7.0\Aula do dia 19.04.2023.exe
+C:\Users\vinni\Downloads\Atividade de sala\7 - Aula do dia 19.04.2023\bin\Debug\net7.0\Aula do dia 19.04.2023.deps.json
+C:\Users\vinni\Downloads\Atividade de sala\7 - Aula do dia 19.04.2023\bin\Debug\net7.0\Aula do dia 19.04.2023.runtimeconfig.json
+C:\Users\vinni\Downloads\Atividade de sala\7 - Aula do dia 19.04.2023\bin\Debug\net7.0\Aula do dia 19.04.2023.dll
+C:\Users\vinni\Downloads\Atividade de sala\7 - Aula do dia 19.04.2023\bin\Debug\net7.0\Aula do dia 19.04.2023.pdb
+C:\Users\vinni\Downloads\Atividade de sala\7 - Aula do dia 19.04.2023\obj\Debug\net7.0\Aula do dia 19.04.2023.csproj.AssemblyReference.cache
+C:\Users\vinni\Downloads\Atividade de sala\7 - Aula do dia 19.04.2023\obj\Debug\net7.0\Aula do dia 19.04.2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinni\Downloads\Atividade de sala\7 - Aula do dia 19.04.2023\obj\Debug\net7.0\Aula do dia 19.04.2023.AssemblyInfoInputs.cache
+C:\Users\vinni\Downloads\Atividade de sala\7 - Aula do dia 19.04.2023\obj\Debug\net7.0\Aula do dia 19.04.2023.AssemblyInfo.cs
+C:\Users\vinni\Downloads\Atividade de sala\7 - Aula do dia 19.04.2023\obj\Debug\net7.0\Aula do dia 19.04.2023.csproj.CoreCompileInputs.cache
+C:\Users\vinni\Downloads\Atividade de sala\7 - Aula do dia 19.04.2023\obj\Debug\net7.0\Aula do dia 19.04.2023.dll
+C:\Users\vinni\Downloads\Atividade de sala\7 - Aula do dia 19.04.2023\obj\Debug\net7.0\refint\Aula do dia 19.04.2023.dll
+C:\Users\vinni\Downloads\Atividade de sala\7 - Aula do dia 19.04.2023\obj\Debug\net7.0\Aula do dia 19.04.2023.pdb
+C:\Users\vinni\Downloads\Atividade de sala\7 - Aula do dia 19.04.2023\obj\Debug\net7.0\Aula do dia 19.04.2023.genruntimeconfig.cache
+C:\Users\vinni\Downloads\Atividade de sala\7 - Aula do dia 19.04.2023\obj\Debug\net7.0\ref\Aula do dia 19.04.2023.dll
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\bin\Debug\net7.0\Aula do dia 19.04.2023.exe
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\bin\Debug\net7.0\Aula do dia 19.04.2023.deps.json
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\bin\Debug\net7.0\Aula do dia 19.04.2023.runtimeconfig.json
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\bin\Debug\net7.0\Aula do dia 19.04.2023.dll
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\bin\Debug\net7.0\Aula do dia 19.04.2023.pdb
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\obj\Debug\net7.0\Aula do dia 19.04.2023.csproj.AssemblyReference.cache
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\obj\Debug\net7.0\Aula do dia 19.04.2023.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\obj\Debug\net7.0\Aula do dia 19.04.2023.AssemblyInfoInputs.cache
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\obj\Debug\net7.0\Aula do dia 19.04.2023.AssemblyInfo.cs
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\obj\Debug\net7.0\Aula do dia 19.04.2023.csproj.CoreCompileInputs.cache
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\obj\Debug\net7.0\Aula do dia 19.04.2023.dll
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\obj\Debug\net7.0\refint\Aula do dia 19.04.2023.dll
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\obj\Debug\net7.0\Aula do dia 19.04.2023.pdb
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\obj\Debug\net7.0\Aula do dia 19.04.2023.genruntimeconfig.cache
+D:\Atividade Opcional, Algoritmos feitos em sala\07 - Aula do dia 19.04.2023\obj\Debug\net7.0\ref\Aula do dia 19.04.2023.dll
